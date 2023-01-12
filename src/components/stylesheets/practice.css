@@ -1,0 +1,17 @@
+.useState-numbers,
+.useState-objects{
+    border: 1px solid red;
+    text-align: center;
+    margin:10px 0;
+    padding: 10px;
+}
+.useState-objects button,
+.useState-numbers button {
+    padding: 8px;
+    border: 0;
+    margin:10px 5px;
+    background:rgb(39, 65, 236);
+    color: white;
+    border-radius: 3px;
+}
+
